@@ -37,7 +37,7 @@ button.accordion.is-open:after {
 }
 button.accordion:focus {
   background-color: #ddd;
-  outline: 2px solid #007BFF; /* Note */
+  outline: 2px solid #00ffa2; 
 }
 
 button.accordion:hover,
